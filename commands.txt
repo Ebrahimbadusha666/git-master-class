@@ -1,0 +1,21 @@
+    command for listing all configuration
+        >git config --list
+
+    command for adding username
+        >git config --global user.name "username"
+
+    command for adding useremail
+        >git config --global user.email "user@gmail.com"
+
+    command for initilizing git repositry
+        >git init 
+
+    command for listing all untracked files
+        >git status
+    
+    command for adding all untracked files to staging area
+        >git add -A 
+
+    command for adding all staged files to local repositry
+        >git  commit -m "commit message"
+        
