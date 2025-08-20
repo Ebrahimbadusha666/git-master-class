@@ -28,5 +28,8 @@
     command for adding changes in local repositry to remote repositry
         >git push -u remote-name branch-name
 
+    command for listing banches
+        >git branch
+
     
 
