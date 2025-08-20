@@ -18,4 +18,12 @@
 
     command for adding all staged files to local repositry
         >git  commit -m "commit message"
-        
+
+    command for adding remote repositry
+        >git remote add name remote_path
+
+    command for listing remote
+        >git remote -v
+
+    
+
